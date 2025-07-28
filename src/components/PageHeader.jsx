@@ -3,7 +3,7 @@ import { FaArrowLeft } from 'react-icons/fa';
 
 function PageHeader() {
   return (
-    <div className="bg-[#1C1C1C] px-8 py-6">
+    <div className="bg-[#1C1C1C] px-8 py-4">
       
       {/* Back Button */}
       <button 

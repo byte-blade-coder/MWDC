@@ -48,7 +48,7 @@ const SolutionForm = () => {
   const riskOptions = ["Alpha", "Bravo", "Charlie"];
 
   return (
-    <div className="p-8 bg-[#1C1C1C]">
+    <div className="px-8 py-4 bg-[#1C1C1C]">
       <div className="p-1 border-2" style={{ borderColor: "#515555" }}>
         <div className="p-6 bg-[#1C1C1C]">
           <h2 className="text-xl font-bold text-white mb-6">
