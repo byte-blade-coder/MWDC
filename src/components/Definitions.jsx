@@ -8,7 +8,7 @@ function Definitions() {
   ];
 
   return (
-    <div className="p-6 bg-[#1C1C1C] min-h-screen text-white">
+    <div className="px-8 bg-[#1C1C1C] min-h-screen text-white">
       <h2 className="text-2xl font-bold text-[#0A7CAD] mb-6">Key Definitions</h2>
 
       <div className="space-y-4">

@@ -8,7 +8,7 @@ function Planning() {
   ];
 
   return (
-    <div className="p-6 text-white bg-[#1C1C1C] min-h-screen">
+    <div className="px-8 text-white bg-[#1C1C1C] min-h-screen">
       <h2 className="text-2xl font-bold text-[#0A7CAD] mb-6">Planning Overview</h2>
 
       <div className="overflow-x-auto">
