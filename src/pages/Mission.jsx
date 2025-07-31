@@ -11,7 +11,7 @@ function MissionLayout() {
     <div className="min-h-screen bg-[#1C1C1C]">
       <SubNavbar />
       <PageHeader />
-      <div className="p-6">
+      <div>
         <Outlet />
       </div>
     </div>
